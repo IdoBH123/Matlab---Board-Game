@@ -1,6 +1,8 @@
 # MATLAB Board Game
 
-Goal: To eliminate as many of your soldiers as possible before the other players.
+Game Purpose:
+
+To eliminate as many of your soldiers as possible before the other players.
 
 Setup:
 
